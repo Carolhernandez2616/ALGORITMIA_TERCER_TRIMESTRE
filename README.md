@@ -1,2 +1,2 @@
 # ALGORITMIA_TERCER_TRIMESTRE
-Algoritmos de programacion orientados a objetos
+Algoritmos de programacion orientada a objetos en python
